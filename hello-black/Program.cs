@@ -7,6 +7,8 @@ class Program
     static void SayHello()
     {
         Console.WriteLine("hello everyone");
+        GreetWhite();
+        GreetBlack();
     }
 
     static void GreetWhite()
